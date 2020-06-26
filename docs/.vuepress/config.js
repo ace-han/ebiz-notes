@@ -7,7 +7,7 @@ module.exports = {
   // dest: 'gb-pages',//打包目录
   base: '/ebiz-notes/',
   title: "ebiz-notes",
-  description: '荷尽已无擎雨盖，菊残犹有傲霜枝。',
+  description: '执子之手，与子皆老。',
   head: [
     ['link', {
       rel: 'icon',
@@ -71,7 +71,7 @@ module.exports = {
     // 可选，默认为 master
     //docsBranch: 'vuepress',
     editLinks: true,
-    editLinkText: '在 GitHub 上编辑此页！',
+    editLinkText: 'Edit it on GitHub',
     //评论
     valineConfig: {
       appId: 'xbT4pPXCWQju5T7GXC5fUFlF-gzGzoHsz',
